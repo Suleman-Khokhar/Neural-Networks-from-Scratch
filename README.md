@@ -406,8 +406,8 @@ The learning progression is intentionally layered:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Suleman-Khokhar/neural-network-fundamentals-from-scratch.git
-cd neural-network-fundamentals-from-scratch
+git clone https://github.com/Suleman-Khokhar/Neural-Networks-from-Scratch.git
+cd Neural-Networks-from-Scratch
 ```
 
 ### 2. Create a virtual environment
